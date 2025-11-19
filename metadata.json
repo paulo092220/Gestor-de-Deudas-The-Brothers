@@ -1,0 +1,5 @@
+{
+  "name": "Customer Debt Tracker",
+  "description": "An application to manage customer debts for merchandise, including support for multiple currencies and exchange rates against CUP. It allows adding new debts, which accumulate over time, and settling the total amount in a single payment.",
+  "requestFramePermissions": []
+}
